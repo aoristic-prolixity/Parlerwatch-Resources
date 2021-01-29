@@ -1,5 +1,5 @@
 # Parlerwatch-Resources
-Overview for /r/Parlerwatch
+Overview for [/r/Parlerwatch](https://www.reddit.com/r/ParlerWatch)
 
 This thread will provide an overview of all the known Parler resources concerning the data leak. It will also link to several scripts that can be used to comb through the data. At the bottom you will find the URLs that are specific to the Jan.6 Insurrection and Capitol Riots. The latter may be removed in the future if/when it's use comes to an end.
 
@@ -20,7 +20,7 @@ If you find something credible and viable, please consider the following:
    * https://www.dhs.gov/report-incidents
    * Or your local fusion chapter. [Scroll down to your state](https://www.dhs.gov/fusion-center-locations-and-contact-information)
 
-In case you run into something you're unsure how to deal with, or it's simply too much for one person to handle, make a thread on /r/Parlerwatch and the community will help you out.
+In case you run into something you're unsure how to deal with, or it's simply too much for one person to handle, make a thread on [/r/Parlerwatch](https://reddit.com/r/ParlerWatch) and the community will help you out.
 
 # All Parler resources, concerning the leak
 
