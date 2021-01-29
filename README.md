@@ -3,6 +3,7 @@ Overview for [/r/Parlerwatch](https://www.reddit.com/r/ParlerWatch)
 
 This thread will provide an overview of all the known Parler resources concerning the data leak. It will also link to several scripts that can be used to comb through the data. At the bottom you will find the URLs that are specific to the Jan.6 Insurrection and Capitol Riots. The latter may be removed in the future if/when it's use comes to an end.
 
+Anything missing? Drop us a [modmail](https://www.reddit.com/message/compose?to=/r/ParlerWatch)!
 
 ### Important: Law Enforcement contact information
 
