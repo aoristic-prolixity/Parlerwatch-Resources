@@ -5,10 +5,9 @@ This thread will provide an overview of all the known Parler resources concernin
 
 
 
-## Important: Law Enforcement contact information
+### Important: Law Enforcement contact information
 
 If you find something credible and viable, please consider the following:
-
 * Make note of the platform, username, specific URLs.
 * If possible, save the media (screenshots, recordings, save to pdf) to include in your report. LE has submission forms that allow you to upload media.
 
