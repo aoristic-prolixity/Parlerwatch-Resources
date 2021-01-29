@@ -15,6 +15,7 @@ If you find something credible and viable, please consider the following:
    * [All tips](https://tips.fbi.gov)
    * [Insurrection tips](http://fbi.gov/USCapitol)
    * [Media form](https://tips.fbi.gov/digitalmedia/aad18481a3e8f02)
+   * Or call 1-800-CALL-FBI (1-‪800-225-5324)
 * Department of Homeland Security 
    * https://www.dhs.gov/report-incidents
    * Or your local fusion chapter. [Scroll down to your state](https://www.dhs.gov/fusion-center-locations-and-contact-information)
