@@ -1,3 +1,4 @@
+[Return to /r/Parlerwatch](https://www.reddit.com/r/ParlerWatch)
 ![Image of ParlerWatch](https://styles.redditmedia.com/t5_3dw7go/styles/bannerBackgroundImage_43z4vnjch4e61.png)
 
 # Parlerwatch-Resources
