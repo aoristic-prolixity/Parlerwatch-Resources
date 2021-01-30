@@ -1,6 +1,6 @@
 > [Return to /r/Parlerwatch](https://www.reddit.com/r/ParlerWatch)
 
-![Image](https://user-images.githubusercontent.com/77589046/106362157-9cc29300-6321-11eb-8695-8acdff069381.png)
+[![Image](https://user-images.githubusercontent.com/77589046/106362157-9cc29300-6321-11eb-8695-8acdff069381.png)](#)
 
 # Parlerwatch-Resources
 Overview for [/r/Parlerwatch](https://www.reddit.com/r/ParlerWatch)
